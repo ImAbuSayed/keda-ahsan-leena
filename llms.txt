@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/keda-ahsan-leena/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Keda Ahsan Leena](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Keda Ahsan Leena](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
